@@ -46,3 +46,7 @@ Aliases
 
 If you want to use this aliases on zsh, download the file named yay-aliases.zsh and add the next line to your .zshrc:
 `source <path to the file>/yay-aliases.zsh`
+  
+
+If you use zimfw you can add the following line to your .zimrc
+`zmodule https://github.com/UlisesAlexanderAM/pacman/ -b main`
