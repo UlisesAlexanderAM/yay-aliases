@@ -44,5 +44,5 @@ Aliases
 
 ### Use
 
-If you want to use this aliases on zsh, download the file named as yay-aliases.zsh and add the next line to your .zshrc:
+If you want to use this aliases on zsh, download the file named yay-aliases.zsh and add the next line to your .zshrc:
 `source <path to the file>/yay-aliases.zsh`
