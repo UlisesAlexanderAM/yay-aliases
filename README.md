@@ -41,3 +41,8 @@ Aliases
 
   * `yown` list all files provided by a given package
   * `yblame` show package(s) that own a specified file
+
+### Use
+
+If you want to use this aliases on zsh, download the file named as yay-aliases.zsh and add the next line to your .zshrc:
+`source <path to the file>/yay-aliases.zsh`
