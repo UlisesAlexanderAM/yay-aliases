@@ -50,3 +50,14 @@ If you want to use this aliases on zsh, download the file named yay-aliases.zsh 
 
 If you use zimfw you can add the following line to your .zimrc
 `zmodule https://github.com/UlisesAlexanderAM/pacman/ -b main`
+  
+  
+## Spanish translation / Traduccion en español
+If you want to see the spanish version of this file, you can do it [here](README-en-español.md).
+If you want to help with the translation or you have an alias you'd to add or a new funtionality; you're 
+free to open an issue or make a pull request.
+  
+
+Si quieren ver la version en español de este README, pueden hacerlo [aqui](README-en-español.md).
+Si quieren ayudar con la traducción o tienes un alias que te gustaria que agregara o una nueva funcionalida; 
+eres libre de abrir un issue o hacer un pull request.
